@@ -9,7 +9,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-steel {
-  background-color: #587c56;
+  padding: 15px;
+  background-color: #3f4e7c;
 }
 
 .site-header .navbar-brand {
@@ -34,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-block;
     font-size: 14px;
     margin: 4px 2px;
-    -webkit-transition-duration: 1.4s; /* Safari */
+    -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     cursor: pointer;
     background-color: #587C56;
